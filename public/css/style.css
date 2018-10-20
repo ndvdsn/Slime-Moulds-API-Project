@@ -1,0 +1,82 @@
+
+div {
+
+}
+
+.mould-image {
+  max-width: 500px;
+}
+
+.ups {
+  
+}
+
+img {
+  max-width: 500px;
+}
+
+
+body {
+  width: 800px;
+  font-family: Helvetica;
+  align-content: center;
+  margin: 60px;
+}
+
+h3 {
+  color: tomato;
+  padding: 10px;
+  margin: 10px;
+}
+
+h1 {
+  color: tomato;
+  padding: 10px;
+  margin: 10px;
+  align-content: center;
+
+}
+
+h3{
+  color: tomato;
+}
+
+label {
+  margin: 5px;
+}
+
+input {
+  margin: 5px;
+}
+
+select {
+  margin: 5px;
+}
+
+legend {
+  margin: 5px;
+}
+
+form {
+  font-size: 11pt;
+  list-style-type: none;
+  border-style: dotted;
+  /* border-color: red; */
+  /* background: lightblue; */
+  margin: 10px;
+  padding: 10px;
+}
+
+li {
+  list-style-type: none;
+  border-style: dotted;
+  /* border-color: red;
+  background: lightblue; */
+  margin: 10px;
+  padding: 10px;
+}
+
+ul {
+  margin: 10px;
+  padding: 10px;
+}
